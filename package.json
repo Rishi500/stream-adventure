@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Rishi500/stream-adventure#readme",
   "dependencies": {
+    "concat-stream": "^2.0.0",
     "through2": "^4.0.2"
   }
 }
